@@ -1,6 +1,6 @@
 package training;
 //Find largest number in array
-public class ques6 {
+public class task6 {
 
 	public static void main(String[] args) {
 
