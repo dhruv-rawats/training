@@ -1,6 +1,6 @@
 package training;
 //Write a program to find the second largest element from array.
-public class ques5 {
+public class task5 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
