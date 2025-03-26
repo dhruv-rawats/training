@@ -1,6 +1,6 @@
 package training;
 //Print duplicate values from integer array
-public class ques4 {
+public class task4 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
