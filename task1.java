@@ -1,6 +1,6 @@
 package training;
 //frequency of every char in the string
-public class ques1 {
+public class task1 {
 
 	public static void main(String[] args) {
 		
