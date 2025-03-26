@@ -1,6 +1,6 @@
 package training;
 //First non repeating Character in string
-public class ques7 {
+public class task7 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
