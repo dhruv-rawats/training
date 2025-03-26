@@ -2,7 +2,7 @@ package training;
 //Program to find vowels count in string
 import java.util.HashSet;
 
-public class ques3 {
+public class task3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
